@@ -1,0 +1,6 @@
+﻿(名字)（价格）(子弹速度)(最大射程)(每秒攻击次数)(攻击力)
+Tow_Crossbow2_BaoLieNuJian|50|1800|8|2|10
+Tow_Gatling1_JinShuFengBao|100|2200|12|3|2
+Tow_Plasma3_JuJiaoLieYan|200|2000|20|6|5
+Tow_Tesla1_DianShanLeiMing|150|1600|16|2|3
+测试一下超过最大长度？

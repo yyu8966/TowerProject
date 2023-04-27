@@ -1,0 +1,11 @@
+[2021-3-25 15:23:17] layer "2级背板.png 拷贝": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "场景资源.png": Duplicate path: 场景资源.png
+[2021-3-25 15:23:17] layer "装饰直线.png 拷贝": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "3级背板.png 拷贝": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "删除按钮.png 拷贝": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "3级背板.png 拷贝 2": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "删除按钮.png 拷贝 2": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "装饰直线.png 拷贝 2": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "2级面板.png 拷贝": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "装饰直线.png 拷贝 3": Expected end of input but "\u62F7" found.
+[2021-3-25 15:23:17] layer "删除按钮.png 拷贝 3": Expected end of input but "\u62F7" found.
